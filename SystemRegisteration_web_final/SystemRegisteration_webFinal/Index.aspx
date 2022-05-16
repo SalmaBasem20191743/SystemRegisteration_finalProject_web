@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Web_Finalproject.Index" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="SystemRegisteration_webFinal.Index" %>
 
 <!DOCTYPE html>
 
@@ -6,6 +6,7 @@
 <head runat="server">
     <title></title>
     <style type="text/css">
+
         .auto-style1 {
             width: 100%;
         }
@@ -13,25 +14,22 @@
             width: 194px;
             height: 98px;
         }
-        .auto-style5 {
-            width: 362px;
+        .auto-style16 {
+            width: 866px;
             height: 98px;
         }
         .auto-style13 {
             width: 658px;
             height: 98px;
         }
-        .auto-style16 {
-            width: 866px;
+        .auto-style5 {
+            width: 362px;
             height: 98px;
         }
-        .auto-style17 {
-            height: 1px;
-        }
-    </style>
+        </style>
 </head>
 <body>
-    <form id="form1" runat="server">
+    <form id="form2" runat="server">
         <div>
             <table class="auto-style1" style="background-color: #C0C0C0; background-image: inherit; border-style: double; border-width: medium">
                 <tr>
@@ -88,7 +86,7 @@
                         </asp:DropDownList>
                     </td>
                 </tr>
-                </table>
+            </table>
         </div>
     </form>
 </body>

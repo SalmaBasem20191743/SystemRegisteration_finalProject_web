@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace SystemRegisteration_FinalProject_WEB
+namespace SystemRegisteration_webFinal
 {
     public partial class Index : System.Web.UI.Page
     {
