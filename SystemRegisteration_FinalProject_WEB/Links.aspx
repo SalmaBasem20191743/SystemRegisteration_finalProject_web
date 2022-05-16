@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Links.aspx.cs" Inherits="SystemRegisteration_FinalProject_WEB.Links" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Links.aspx.cs" Inherits="Web_Finalproject.Links" %>
 
 <!DOCTYPE html>
 
