@@ -26,7 +26,7 @@
             height: 98px;
         }
         .auto-style17 {
-            height: 13px;
+            height: 1px;
         }
     </style>
 </head>
@@ -36,7 +36,7 @@
             <table class="auto-style1" style="background-color: #C0C0C0; background-image: inherit; border-style: double; border-width: medium">
                 <tr>
                     <td class="auto-style3">
-                        <asp:Image ID="Image1" runat="server" Height="126px" ImageUrl="~/Images/FUE LOGO.jpg" Width="123px" />
+                        <asp:Image ID="Image1" runat="server" Height="127px" ImageUrl="~/Images/FUE LOGO.jpg" Width="123px" />
                     </td>
                     <td class="auto-style16">
                         <asp:Label ID="Label5" runat="server" Font-Bold="True" Font-Names="Arial Black" Font-Size="Small" ForeColor="Black" Text="About Us"></asp:Label>
@@ -87,9 +87,6 @@
                             <asp:ListItem>Sign Up Staff</asp:ListItem>
                         </asp:DropDownList>
                     </td>
-                </tr>
-                <tr>
-                    <td class="auto-style17" style="background-color: #FFFFFF" colspan="6">&nbsp;</td>
                 </tr>
                 </table>
         </div>
